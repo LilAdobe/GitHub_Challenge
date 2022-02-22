@@ -2,4 +2,6 @@
 TalentPath
 
 ## we are practcing git bash
-## and how to commit/push/merge
+
+## cloudy day after that deleting the 2nd line
+## cloudy but a nice 70f outside
